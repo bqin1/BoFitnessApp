@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sample FitnessApp</string>
+
+    <string name="username1">0A041B9462CAA4A31BAC3567E0B6E6FD9100787DB2AB433D96F6D178CABFCE90</string>
+    <string name="password1">0B14D501A594442A01C6859541BCB3E8164D183D32937B851835442F69D5C94E</string>
+    <string name="username2">6025D18FE48ABD45168528F18A82E265DD98D421A7084AA09F61B341703901A3</string>
+    <string name="password2">6CF615D5BCAAC778352A8F1F3360D23F02F34EC182E259897FD6CE485D7870D4</string>
+
+    <string name="user1">user1</string>
+    <string name="user2">user2</string>
+
+    <string name="user1distance">user1distance</string>
+    <string name="user2distance">user2distance</string>
+</resources>
